@@ -35,7 +35,7 @@ Watch the video here: https://drive.google.com/file/d/1VvBH41eywkeETAgFxCNluEgla
     
     Output: The system will display a list of all events and locations where the artist or band will perform. It can result in multiple records. The system will also log all the results in the log.txt file. See screen-shot below:
 
-    ![Results](screenshots\concert_this_result.PNG)
+    ![Results](/screenshots/concert_this_result.png)
 
     **Example 2**: Run the `spotify-this-song` command
     
@@ -43,7 +43,7 @@ Watch the video here: https://drive.google.com/file/d/1VvBH41eywkeETAgFxCNluEgla
     
     Output: The system will display a list of information associated with the song. It can result in multiple records. The system will also log all the results in the log.txt file. See screen-shot below:
 
-    ![Results](screenshots\spotify_this_result.PNG)
+    ![Results](/screenshots/spotify_this_result.PNG)
 
     **Example 3**: Run the `movie-this` command
     
@@ -51,7 +51,7 @@ Watch the video here: https://drive.google.com/file/d/1VvBH41eywkeETAgFxCNluEgla
     
     Output: The system will display information associated with the movie. The system will also log all the results in the log.txt file. See screen-shot below:
 
-    ![Results](screenshots\movie_this_result.PNG)
+    ![Results](/screenshots/movie_this_result.PNG)
 
 
     **Example 4**: Run the `do-what-it-says` command
@@ -62,7 +62,7 @@ Watch the video here: https://drive.google.com/file/d/1VvBH41eywkeETAgFxCNluEgla
     
     See screen-shot below:
 
-    ![Results](screenshots\do_this_result.PNG)
+    ![Results](/screenshots/do_this_result.PNG)
 
 - - -
 
