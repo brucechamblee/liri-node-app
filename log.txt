@@ -1,0 +1,369 @@
+
+
+Concert Search Log----------------------
+
+Venue Name: Mollenpark
+
+Venue Location: Aalborg, , Denmark
+
+Venue Time: 06/01/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Lanxess Arena
+
+Venue Location: Cologne, , Germany
+
+Venue Time: 06/03/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: O2 ARENA
+
+Venue Location: Prague, , Czech Republic
+
+Venue Time: 06/05/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Tauron Arena
+
+Venue Location: Kraków, , Poland
+
+Venue Time: 06/06/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Ziggo Dome
+
+Venue Location: Amsterdam, , Netherlands
+
+Venue Time: 06/10/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: AccorHotels Arena
+
+Venue Location: Paris, , France
+
+Venue Time: 06/11/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Coca-Cola Arena
+
+Venue Location: Dubai, , United Arab Emirates
+
+Venue Time: 06/14/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Curacao North Sea Jazz Festival
+
+Venue Location: Curacao, , Netherlands Antilles
+
+Venue Time: 08/31/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Mollenpark
+
+Venue Location: Aalborg, , Denmark
+
+Venue Time: 06/01/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Lanxess Arena
+
+Venue Location: Cologne, , Germany
+
+Venue Time: 06/03/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: O2 ARENA
+
+Venue Location: Prague, , Czech Republic
+
+Venue Time: 06/05/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Tauron Arena
+
+Venue Location: Kraków, , Poland
+
+Venue Time: 06/06/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Ziggo Dome
+
+Venue Location: Amsterdam, , Netherlands
+
+Venue Time: 06/10/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: AccorHotels Arena
+
+Venue Location: Paris, , France
+
+Venue Time: 06/11/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Coca-Cola Arena
+
+Venue Location: Dubai, , United Arab Emirates
+
+Venue Time: 06/14/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Curacao North Sea Jazz Festival
+
+Venue Location: Curacao, , Netherlands Antilles
+
+Venue Time: 08/31/2019, 7:00 PM
+
+-----------------------------------------
+
+Song Search Log---------------------------------------
+
+Song Name: Sweet Emotion
+
+Artist(s): Aerosmith
+
+Album: Toys In The Attic
+
+Preview Link: https://p.scdn.co/mp3-preview/8d7338ca736693a3f145ef410d2050678a734dc2?cid=c21e21a6e41947c197fe486bba0e7888
+
+-------------------------------------------------------
+
+Movie Search Log----------------------
+
+Year: 2012
+
+IMDB Rating: 8.1
+
+Rotten Tomatoes: 92%
+
+Country: USA
+
+Language: English, Russian, Hindi
+
+Plot: Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.
+
+Year: 2012
+
+Actors: Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth
+
+-----------------------------------------
+
+Movie Search Log----------------------
+
+Year: 1995
+
+IMDB Rating: 7.0
+
+Rotten Tomatoes: 53%
+
+Country: USA
+
+Language: English, French
+
+Plot: When two kids find and play a magical board game, they release a man trapped for decades in it and a host of dangers that can only be stopped by finishing the game.
+
+Year: 1995
+
+Actors: Robin Williams, Jonathan Hyde, Kirsten Dunst, Bradley Pierce
+
+-----------------------------------------
+
+Song Search Log---------------------------------------
+
+Song Name: I Want It That Way
+
+Artist(s): Backstreet Boys
+
+Album: The Hits--Chapter One
+
+Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=c21e21a6e41947c197fe486bba0e7888
+
+-------------------------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Mollenpark
+
+Venue Location: Aalborg, , Denmark
+
+Venue Time: 06/01/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Lanxess Arena
+
+Venue Location: Cologne, , Germany
+
+Venue Time: 06/03/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: O2 ARENA
+
+Venue Location: Prague, , Czech Republic
+
+Venue Time: 06/05/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Tauron Arena
+
+Venue Location: Kraków, , Poland
+
+Venue Time: 06/06/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Ziggo Dome
+
+Venue Location: Amsterdam, , Netherlands
+
+Venue Time: 06/10/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: AccorHotels Arena
+
+Venue Location: Paris, , France
+
+Venue Time: 06/11/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Coca-Cola Arena
+
+Venue Location: Dubai, , United Arab Emirates
+
+Venue Time: 06/14/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Curacao North Sea Jazz Festival
+
+Venue Location: Curacao, , Netherlands Antilles
+
+Venue Time: 08/31/2019, 7:00 PM
+
+-----------------------------------------
+
+Song Search Log---------------------------------------
+
+Song Name: Sweet Emotion
+
+Artist(s): Aerosmith
+
+Album: Toys In The Attic
+
+Preview Link: https://p.scdn.co/mp3-preview/8d7338ca736693a3f145ef410d2050678a734dc2?cid=c21e21a6e41947c197fe486bba0e7888
+
+-------------------------------------------------------
+
+Movie Search Log----------------------
+
+Year: 2012
+
+IMDB Rating: 8.1
+
+Rotten Tomatoes: 92%
+
+Country: USA
+
+Language: English, Russian, Hindi
+
+Plot: Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.
+
+Year: 2012
+
+Actors: Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth
+
+-----------------------------------------
+
+Movie Search Log----------------------
+
+Year: 1995
+
+IMDB Rating: 7.0
+
+Rotten Tomatoes: 53%
+
+Country: USA
+
+Language: English, French
+
+Plot: When two kids find and play a magical board game, they release a man trapped for decades in it and a host of dangers that can only be stopped by finishing the game.
+
+Year: 1995
+
+Actors: Robin Williams, Jonathan Hyde, Kirsten Dunst, Bradley Pierce
+
+-----------------------------------------
+
+Song Search Log---------------------------------------
+
+Song Name: I Want It That Way
+
+Artist(s): Backstreet Boys
+
+Album: The Hits--Chapter One
+
+Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=c21e21a6e41947c197fe486bba0e7888
+
+-------------------------------------------------------
